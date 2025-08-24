@@ -10,6 +10,13 @@
 ---
 
 ## 1. 프로젝트 소개
+
+> **개발 기간**: 2025.01 ~ 2025.05  
+> **개발 인원**: 2명  
+> **역할 분담**: [K-ESSENCE](https://github.com/K-ESSENCE) (FE - 디자인/프론트엔드) · [rodminjo](https://github.com/rodminjo) (BE/인프라)
+ 
+
+
 - **동시편집 기반 웹 빌더**: Yjs(CRDT) + WebSocket, 서버 병합으로 정합성 보장
 - **안정적 인증/인가**: 이메일 인증 + Google OAuth, JWT(Access/Refresh) 갱신 흐름
 - **운영 품질**: Prometheus·Grafana·Loki·Alloy 모니터링, Slack 알림
